@@ -57,5 +57,5 @@ This project focuses on building a predictive model using machine learning techn
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YashDawange/diabetes-prediction.git
+   git clone https://github.com/akash-2301/Diabetes_Prediction_Model.git
    cd diabetes-prediction
